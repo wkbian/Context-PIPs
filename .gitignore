@@ -1,0 +1,10 @@
+*~
+*#*
+*pyc
+#.*
+.DS_Store
+*.out
+*.gif
+data/
+reference_model/
+logs*/
