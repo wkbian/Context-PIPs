@@ -1,6 +1,6 @@
-# Context-PIPs: Persistent Independent Particles Demands Spatial Context Fetaures
+# Context-PIPs: Persistent Independent Particles Demands Spatial Context Features
 
-This repository is the source code for paper [Context-PIPs: Persistent Independent Particles Demands Spatial Context Fetaures](https://arxiv.org/abs/2306.02000), NeurIPS 2023.
+This repository is the source code for paper [Context-PIPs: Persistent Independent Particles Demands Spatial Context Features](https://arxiv.org/abs/2306.02000), NeurIPS 2023.
 
 [Weikang Bian](https://wkbian.github.io/)<sup>\*</sup>,
 [Zhaoyang Huang](https://drinkingcoder.github.io/)<sup>\*</sup>,
@@ -8,7 +8,7 @@ This repository is the source code for paper [Context-PIPs: Persistent Independe
 Yitong Dong,
 [Yijin Li](https://eugenelyj.github.io/),
 [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)
-(<sup>\*</sup> denotes equal contributions.)
+ ( <sup>\*</sup> denotes equal contributions.)
 
 <img src='https://wkbian.github.io/Projects/Context-PIPs/images/motocross-jump_context-tap.gif'>
 
