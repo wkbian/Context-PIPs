@@ -1,6 +1,6 @@
 # Context-PIPs: Persistent Independent Particles Demands Spatial Context Fetaures
 
-Source code for paper [Context-PIPs: Persistent Independent Particles Demands Spatial Context Fetaures](https://arxiv.org/abs/2306.02000), NeurIPS 2023.
+This repository is the source code for paper [Context-PIPs: Persistent Independent Particles Demands Spatial Context Fetaures](https://arxiv.org/abs/2306.02000), NeurIPS 2023.
 
 [Weikang Bian](https://wkbian.github.io/)<sup>\*</sup>,
 [Zhaoyang Huang](https://drinkingcoder.github.io/)<sup>\*</sup>,
@@ -8,10 +8,9 @@ Source code for paper [Context-PIPs: Persistent Independent Particles Demands Sp
 Yitong Dong,
 [Yijin Li](https://eugenelyj.github.io/),
 [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)
+(<sup>\*</sup> denotes equal contributions.)
 
-<small><sup>\*</sup> denotes equal contributions.</small>
-
-<img src=''>
+<img src='https://wkbian.github.io/Projects/Context-PIPs/images/motocross-jump_context-tap.gif'>
 
 **[[Paper](https://arxiv.org/abs/2306.02000)] [[Project Page](https://wkbian.github.io/Projects/Context-PIPs/)]**
 
@@ -76,7 +75,7 @@ python train.py \
 
 ## Acknowledgement
 
-In this project, we use parts of codes in:
+In this project, we use parts of code in:
 
 * [PIPs](https://github.com/aharley/pips)
 * [FlowFormer](https://github.com/drinkingcoder/FlowFormer-Official)
