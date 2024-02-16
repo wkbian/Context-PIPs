@@ -85,11 +85,13 @@ Thanks to the authors for open sourcing their code.
 ## Citation
 
 ```text
-@inproceedings{weikang2023context,
-  title={Context-PIPs: Persistent Independent Particles Demands Context Features},
-  author={Weikang, BIAN and Huang, Zhaoyang and Shi, Xiaoyu and Dong, Yitong and Li, Yijin and Li, Hongsheng},
-  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
-  year={2023}
+@inproceedings{
+bian2023contextpips,
+title={Context-{PIP}s: Persistent Independent Particles Demands Context Features},
+author={Weikang BIAN and Zhaoyang Huang and Xiaoyu Shi and Yitong Dong and Yijin Li and Hongsheng Li},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=cnpkzQZaLU}
 }
 ```
 
